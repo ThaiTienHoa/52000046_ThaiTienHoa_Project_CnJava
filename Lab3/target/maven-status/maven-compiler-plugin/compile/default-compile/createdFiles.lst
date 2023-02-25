@@ -1,0 +1,6 @@
+DAO\PhoneDAO.class
+database\HibernateUtils.class
+com\thJava\Program.class
+DAO\ManufactureDAO.class
+POJO\Phone.class
+POJO\Manufacture.class
